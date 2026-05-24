@@ -9,7 +9,7 @@
 
 **A premium, brutalist-designed portfolio website for Android Senior Developer showcasing 12+ years of professional experience, advanced mobile development expertise, and cutting-edge project demonstrations.**
 
-![Portfolio Preview](https://res.cloudinary.com/dye5qpwii/image/upload/v1778795825/cloud-icon-poster-1_2_opl7sy.png)
+![Portfolio Preview](https://res.cloudinary.com/dye5qpwii/image/upload/v1778795800/2024119_18_syk2ou.jpg)
 
 ---
 
